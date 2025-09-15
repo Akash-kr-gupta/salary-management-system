@@ -27,11 +27,11 @@ Before running this project, make sure you have:
 ---
 
 
-How to Run
+## How to Run
 
-- **Clone or download this repository.
-- **Open the project in Eclipse.
-- **Update your MySQL username & password in:
+- Clone or download this repository.
+- Open the project in Eclipse.
+- Update your MySQL username & password in:
      static final String URL = "jdbc:mysql://localhost:3306/student";
      static final String USER = "root";
      static final String PWD = "abc123";
