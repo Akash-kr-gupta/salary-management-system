@@ -26,6 +26,11 @@ Before running this project, make sure you have:
 
 ---
 
+
+Username: admin
+Password: admin123
+
+
 ## 🗄️ Database Setup
 1. Open MySQL and create the database:
    ```sql
