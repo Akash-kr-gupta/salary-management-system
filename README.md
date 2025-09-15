@@ -27,8 +27,23 @@ Before running this project, make sure you have:
 ---
 
 
-Username: admin
-Password: admin123
+How to Run
+
+*Clone or download this repository.
+*Open the project in Eclipse.
+*Update your MySQL username & password in:
+     static final String URL = "jdbc:mysql://localhost:3306/student";
+     static final String USER = "root";
+     static final String PWD = "abc123";
+
+Run the project:
+
+*Start with LoginUI.java or Dashboard.java.
+*Use the default credentials:
+
+     Username: admin
+   Password: admin123
+
 
 
 ## 🗄️ Database Setup
